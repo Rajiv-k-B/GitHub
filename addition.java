@@ -7,6 +7,7 @@ class add
         a=45;
         b=55;
         s=a+b;
-        System.out.println("Sum of two number = "+s);
+        System.out.println("Sum of two number = "+s);//added  a comment
+        
     }
 }       
