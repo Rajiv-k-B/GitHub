@@ -10,7 +10,7 @@ class array
         {
             if(ar[i]>ar[i+1])
             {
-                int temp;
+//                 int temp;
                 temp=ar[i+1];
                 ar[i+1]=ar[i];
                 ar[i]=temp;
